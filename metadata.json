@@ -1,0 +1,8 @@
+{
+  "name": "Lumina Jewelry - Custom Photo Bracelets",
+  "description": "A premium e-commerce platform for designing personalized photo projection bracelets. Upload your memories and see them come to life in elegant jewelry pieces.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
